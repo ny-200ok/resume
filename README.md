@@ -78,5 +78,5 @@
 
 **데이터베이스 보안 솔루션 개발**
 * 2014-05 ~ 2015-12
-* 제품 개발 및 고객사 엔지니어링 담당
+* 제품 개발 및 고객사 엔지니어링 담당
 * 사용 기술: java, spring framework, Javascript, C, Database(Oracle, MSSQL, MySql, PostgreSQL) 등
